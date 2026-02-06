@@ -68,7 +68,7 @@ export default function PriceGraph({ ticker }: PriceGraphProps) {
       "popup_height": "650",
       "popup_width": "1000",
       "studies": [
-        "STD;MA%Ribbon",
+        "STD;MA%1Cross",
         "STD;RSI"
       ],
       "support_host": "https://www.tradingview.com",
