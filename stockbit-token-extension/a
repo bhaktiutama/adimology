@@ -1,0 +1,2 @@
+cp stockbit-token-extension/manifest.json.example stockbit-token-extension/manifest.json
+cp stockbit-token-extension/background.js.example stockbit-token-extension/background.js
