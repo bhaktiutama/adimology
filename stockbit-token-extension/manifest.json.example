@@ -8,7 +8,7 @@
   ],
   "host_permissions": [
     "https://*.stockbit.com/*",
-    "https://YOUR_APP_DOMAIN.netlify.app/*"
+    "https://adimology-kalkulator.netlify.app/*"
   ],
   "background": {
     "service_worker": "background.js"
