@@ -35,7 +35,6 @@
     "eslint": "^9.39.2",
     "eslint-config-next": "^16.1.6",
     "eslint-config-prettier": "^10.1.8",
-    "eslint-plugin-next": "^16.1.6",
     "eslint-plugin-react": "^7.37.5",
     "husky": "^9.1.7",
     "lint-staged": "^16.2.7",
